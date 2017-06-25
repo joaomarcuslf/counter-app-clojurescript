@@ -12,9 +12,8 @@ indent_size = 4
 
 [*.{cljs, clj}]
 indent_style = space
-indent_size = 2
+indent_size = 1
 
 [{package.clj,.travis.yml}]
 indent_style = space
 indent_size = 2
-
